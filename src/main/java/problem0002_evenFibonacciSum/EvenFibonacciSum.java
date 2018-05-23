@@ -3,7 +3,7 @@ package problem0002_evenFibonacciSum;
 import java.util.Scanner;
 
 public class EvenFibonacciSum {
-    public static long calculateSum(long n) {
+    public static long calculate(long n) {
         if (n < 2) {
             return 0;
         }
@@ -25,7 +25,7 @@ public class EvenFibonacciSum {
         int t = in.nextInt();
         for(int a0 = 0; a0 < t; a0++){
             long n = in.nextLong();
-            System.out.println(calculateSum(n));
+            System.out.println(calculate(n));
         }
     }
 }

@@ -8,8 +8,8 @@ import static org.junit.jupiter.api.Assertions.*;
 class Multiples35SumTest {
 
     @Test
-    void testCalculateSum() {
-        assertEquals(23, Multiples35Sum.calculateSum(10));
-        assertEquals(2318, Multiples35Sum.calculateSum(100));
+    void testCalculate() {
+        assertEquals(23, Multiples35Sum.calculate(10));
+        assertEquals(2318, Multiples35Sum.calculate(100));
     }
 }
