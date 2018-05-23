@@ -2,7 +2,7 @@ package problem0002_evenFibonacciSum;
 
 import java.util.Scanner;
 
-public class evenFibonacciSum {
+public class EvenFibonacciSum {
     public static long calculateSum(long n) {
         if (n < 2) {
             return 0;
