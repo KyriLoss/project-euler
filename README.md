@@ -1,7 +1,7 @@
 # project-euler
 My solutions to the [Project Euler](https://projecteuler.net) series of mathematical / computer programming problems.
 
-For demonstration purposes only. All possible similarities to solutions published by others are strictly coincidental.
+For educational and demonstration purposes only. All possible similarities to solutions published by others are strictly coincidental.
 
 ## Project Euler
 Based on [Wikipedia](https://en.wikipedia.org/wiki/Project_Euler): Named after Leonhard Euler and created in 2001 by Colin Hughes, it is a website dedicated to a series of computational problems intended to be solved with computer programs. Problems are of varying difficulty, but each is solvable in less than a minute of CPU time using an efficient algorithm on a modestly powered computer.
