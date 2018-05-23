@@ -2,7 +2,7 @@ package problem0001_35multiplesSum;
 
 import java.util.Scanner;
 
-public class Solution {
+public class Multiples35Sum {
     public static long sumToN(long n) {
         return n * (n + 1) / 2;
     }
