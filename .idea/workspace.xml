@@ -19,20 +19,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LargestPalindromeProduct.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/problem0004_largestPalindromeProduct/LargestPalindromeProduct.java">
+      <file leaf-file-name="SmallestMultiple.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem0005_smallestMultiple/SmallestMultiple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="64">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LargestPalindromeProductTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/problem0004_largestPalindromeProduct/LargestPalindromeProductTest.java">
+      <file leaf-file-name="SmallestMultipleTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/problem0005_smallestMultiple/SmallestMultipleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="165">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -73,6 +77,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/src/test/java/problem0004_largestPalindromeProduct/LargestPalindromeProductTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/problem0004_largestPalindromeProduct/LargestPalindromeProduct.java" />
+        <option value="$PROJECT_DIR$/src/test/java/problem0005_smallestMultiple/SmallestMultipleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem0005_smallestMultiple/SmallestMultiple.java" />
       </list>
     </option>
   </component>
@@ -122,15 +128,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0003_largestPrimeFactor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0004_largestPalindromeProduct" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0005_smallestMultiple" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
@@ -151,7 +149,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0004_largestPalindromeProduct" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0005_smallestMultiple" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,11 +171,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problem0005_smallestMultiple" />
       <recent name="problem0004_largestPalindromeProduct" />
       <recent name="problem0003_largestPrimeFactor" />
       <recent name="problem0002_evenFiboSum" />
       <recent name="projectEuler.problem0001_35multiplesSum" />
-      <recent name="projectEuler.problem0001_53multiplesSum" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -195,30 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LargestPalindromeProductTest.testFind">
-    <configuration name="Multiples35SumTest.testCalculate" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="project-euler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem0001_35multiplesSum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="problem0001_35multiplesSumTest" />
-      <option name="MAIN_CLASS_NAME" value="problem0001_35multiplesSumTest.Multiples35SumTest" />
-      <option name="METHOD_NAME" value="testCalculate" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.SmallestMultipleTest.testFind">
     <configuration name="EvenFibonacciSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem0002_evenFibonacciSum.EvenFibonacciSum" />
       <module name="project-euler" />
@@ -302,6 +277,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="SmallestMultipleTest.testFind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem0005_smallestMultiple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="problem0005_smallestMultiple" />
+      <option name="MAIN_CLASS_NAME" value="problem0005_smallestMultiple.SmallestMultipleTest" />
+      <option name="METHOD_NAME" value="testFind" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -342,13 +340,14 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.EvenFibonacciSumTest.testCalculate" />
-      <item itemvalue="Android JUnit.Multiples35SumTest.testCalculate" />
       <item itemvalue="Application.EvenFibonacciSum" />
       <item itemvalue="JUnit.LargestPrimeFactorTest.testFind" />
       <item itemvalue="JUnit.LargestPalindromeProductTest.testFind" />
+      <item itemvalue="JUnit.SmallestMultipleTest.testFind" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SmallestMultipleTest.testFind" />
         <item itemvalue="JUnit.LargestPalindromeProductTest.testFind" />
         <item itemvalue="JUnit.LargestPrimeFactorTest.testFind" />
         <item itemvalue="JUnit.EvenFibonacciSumTest.testCalculate" />
@@ -370,35 +369,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LargestPalindromeProductTest_testFind - 2018.05.24 at 03h 18m 07s.xml">
-      <configuration name="LargestPalindromeProductTest.testFind" configurationId="JUnit" />
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 16m 03s.xml">
+      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestPalindromeProductTest_testFind - 2018.05.24 at 03h 19m 41s.xml">
-      <configuration name="LargestPalindromeProductTest.testFind" configurationId="JUnit" />
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 17m 34s.xml">
+      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestPalindromeProductTest_testFind - 2018.05.24 at 03h 20m 42s.xml">
-      <configuration name="LargestPalindromeProductTest.testFind" configurationId="JUnit" />
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 17m 47s.xml">
+      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestPalindromeProductTest_testFind - 2018.05.24 at 03h 20m 58s.xml">
-      <configuration name="LargestPalindromeProductTest.testFind" configurationId="JUnit" />
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 18m 07s.xml">
+      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestPalindromeProductTest_testFind - 2018.05.24 at 03h 22m 09s.xml">
-      <configuration name="LargestPalindromeProductTest.testFind" configurationId="JUnit" />
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 19m 42s.xml">
+      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestPalindromeProductTest_testFind - 2018.05.24 at 03h 22m 22s.xml">
-      <configuration name="LargestPalindromeProductTest.testFind" configurationId="JUnit" />
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 19m 47s.xml">
+      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestPalindromeProductTest_testFind - 2018.05.24 at 03h 23m 34s.xml">
-      <configuration name="LargestPalindromeProductTest.testFind" configurationId="JUnit" />
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 28m 17s.xml">
+      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestPalindromeProductTest_testFind - 2018.05.24 at 03h 24m 15s.xml">
-      <configuration name="LargestPalindromeProductTest.testFind" configurationId="JUnit" />
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 28m 47s.xml">
+      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestPalindromeProductTest_testFind - 2018.05.24 at 03h 25m 47s.xml">
-      <configuration name="LargestPalindromeProductTest.testFind" configurationId="JUnit" />
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 29m 21s.xml">
+      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestPalindromeProductTest_testFind - 2018.05.24 at 03h 27m 57s.xml">
-      <configuration name="LargestPalindromeProductTest.testFind" configurationId="JUnit" />
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 32m 31s.xml">
+      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -564,8 +563,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/problem0004_largestPalindromeProduct/LargestPalindromeProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="272">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/function/ToLongFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/function/LongBinaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/problem0005_smallestMultiple/SmallestMultipleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem0005_smallestMultiple/SmallestMultiple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
