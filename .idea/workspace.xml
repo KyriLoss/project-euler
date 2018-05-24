@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ca9299-fe61-4ace-88e4-10be8e3f806e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="87ca9299-fe61-4ace-88e4-10be8e3f806e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,24 +17,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SmallestMultiple.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/problem0005_smallestMultiple/SmallestMultiple.java">
+      <file leaf-file-name="SumSquareDifference.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem0006_sumSquareDifference/SumSquareDifference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="408">
+              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
               <folding>
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SmallestMultipleTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/problem0005_smallestMultiple/SmallestMultipleTest.java">
+      <file leaf-file-name="SumSquareDifferenceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/problem0006_sumSquareDifference/SumSquareDifferenceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="301">
+              <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+              <folding>
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,6 +85,8 @@
         <option value="$PROJECT_DIR$/src/main/java/problem0004_largestPalindromeProduct/LargestPalindromeProduct.java" />
         <option value="$PROJECT_DIR$/src/test/java/problem0005_smallestMultiple/SmallestMultipleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/problem0005_smallestMultiple/SmallestMultiple.java" />
+        <option value="$PROJECT_DIR$/src/test/java/problem0006_sumSquareDifference/SumSquareDifferenceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem0006_sumSquareDifference/SumSquareDifference.java" />
       </list>
     </option>
   </component>
@@ -128,7 +136,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0005_smallestMultiple" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0006_sumSquareDifference" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
@@ -142,14 +150,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0005_smallestMultiple" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,11 +171,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="problem0006_sumSquareDifference" />
       <recent name="problem0005_smallestMultiple" />
       <recent name="problem0004_largestPalindromeProduct" />
       <recent name="problem0003_largestPrimeFactor" />
       <recent name="problem0002_evenFiboSum" />
-      <recent name="projectEuler.problem0001_35multiplesSum" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -193,18 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SmallestMultipleTest.testFind">
-    <configuration name="EvenFibonacciSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem0002_evenFibonacciSum.EvenFibonacciSum" />
-      <module name="project-euler" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem0002_evenFibonacciSum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SumSquareDifferenceTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -300,6 +289,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="SumSquareDifferenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem0006_sumSquareDifference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="problem0006_sumSquareDifference" />
+      <option name="MAIN_CLASS_NAME" value="problem0006_sumSquareDifference.SumSquareDifferenceTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -340,18 +352,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.EvenFibonacciSumTest.testCalculate" />
-      <item itemvalue="Application.EvenFibonacciSum" />
       <item itemvalue="JUnit.LargestPrimeFactorTest.testFind" />
       <item itemvalue="JUnit.LargestPalindromeProductTest.testFind" />
       <item itemvalue="JUnit.SmallestMultipleTest.testFind" />
+      <item itemvalue="JUnit.SumSquareDifferenceTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SumSquareDifferenceTest" />
         <item itemvalue="JUnit.SmallestMultipleTest.testFind" />
         <item itemvalue="JUnit.LargestPalindromeProductTest.testFind" />
         <item itemvalue="JUnit.LargestPrimeFactorTest.testFind" />
         <item itemvalue="JUnit.EvenFibonacciSumTest.testCalculate" />
-        <item itemvalue="Application.EvenFibonacciSum" />
       </list>
     </recent_temporary>
   </component>
@@ -369,40 +381,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 16m 03s.xml">
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 45m 40s.xml">
       <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 17m 34s.xml">
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 46m 17s.xml">
       <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 17m 47s.xml">
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 46m 38s.xml">
       <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 18m 07s.xml">
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 47m 11s.xml">
       <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 19m 42s.xml">
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 48m 41s.xml">
       <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 19m 47s.xml">
+    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 48m 52s.xml">
       <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 28m 17s.xml">
-      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
+    <history-entry file="SumSquareDifferenceTest - 2018.05.24 at 06h 49m 14s.xml">
+      <configuration name="SumSquareDifferenceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 28m 47s.xml">
-      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
+    <history-entry file="SumSquareDifferenceTest - 2018.05.24 at 06h 49m 24s.xml">
+      <configuration name="SumSquareDifferenceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 29m 21s.xml">
-      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
+    <history-entry file="SumSquareDifferenceTest - 2018.05.24 at 06h 49m 32s.xml">
+      <configuration name="SumSquareDifferenceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SmallestMultipleTest_testFind - 2018.05.24 at 06h 32m 31s.xml">
-      <configuration name="SmallestMultipleTest.testFind" configurationId="JUnit" />
+    <history-entry file="SumSquareDifferenceTest - 2018.05.24 at 06h 49m 50s.xml">
+      <configuration name="SumSquareDifferenceTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -412,13 +423,13 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329582" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32943013" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
       <window_info id="Learn" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -474,6 +485,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -481,6 +495,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -523,6 +540,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -530,6 +550,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -589,13 +612,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/problem0006_sumSquareDifference/SumSquareDifferenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/problem0005_smallestMultiple/SmallestMultiple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        <state relative-caret-position="-209">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem0006_sumSquareDifference/SumSquareDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
           <folding>
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
           </folding>
         </state>
       </provider>
