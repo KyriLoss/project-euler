@@ -19,20 +19,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NthPrime.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrime.java">
+      <file leaf-file-name="LargestKProductInN.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="148">
+              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NthPrimeTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrimeTest.java">
+      <file leaf-file-name="LargestKProductInNTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInNTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="170">
+              <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0006_sumSquareDifference/SumSquareDifferenceTest.java" />
         <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrime.java" />
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrimeTest.java" />
+        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInN.java" />
+        <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInNTest.java" />
       </list>
     </option>
   </component>
@@ -123,9 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,10 +142,37 @@
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main.java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main.java" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0008_largestKProductInN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test.java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test.java" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0008_largestKProductInN" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,11 +189,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.github.kyriloss.pe.problem0008_largestKProductInN" />
       <recent name="com.github.kyriloss.pe.problem0007_NthPrime" />
       <recent name="java.com.github.kyriloss.pe.problem0001_35multiplesSum" />
       <recent name="problem0006_sumSquareDifference" />
       <recent name="problem0005_smallestMultiple" />
-      <recent name="problem0004_largestPalindromeProduct" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -187,24 +218,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NthPrimeTest.testFindNthPrime">
+  <component name="RunManager" selected="JUnit.LargestKProductInNTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LargestPalindromeProductTest.testFindLargestPalindromeProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LargestKProductInNTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0004_largestPalindromeProduct.*" />
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0008_largestKProductInN.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0004_largestPalindromeProduct" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0004_largestPalindromeProduct.LargestPalindromeProductTest" />
-      <option name="METHOD_NAME" value="testFindLargestPalindromeProduct" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0008_largestKProductInN" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0008_largestKProductInN.LargestKProductInNTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -345,19 +376,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LargestPalindromeProductTest.testFindLargestPalindromeProduct" />
       <item itemvalue="JUnit.SmallestMultipleTest" />
       <item itemvalue="JUnit.SumSquareDifferenceTest" />
       <item itemvalue="JUnit.NthPrimeTest.testFindPrimesToN" />
       <item itemvalue="JUnit.NthPrimeTest.testFindNthPrime" />
+      <item itemvalue="JUnit.LargestKProductInNTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LargestKProductInNTest" />
         <item itemvalue="JUnit.NthPrimeTest.testFindNthPrime" />
         <item itemvalue="JUnit.NthPrimeTest.testFindPrimesToN" />
         <item itemvalue="JUnit.SumSquareDifferenceTest" />
         <item itemvalue="JUnit.SmallestMultipleTest" />
-        <item itemvalue="JUnit.LargestPalindromeProductTest.testFindLargestPalindromeProduct" />
       </list>
     </recent_temporary>
   </component>
@@ -375,39 +406,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NthPrimeTest_testFindNthPrime - 2018.05.30 at 02h 01m 32s.xml">
-      <configuration name="NthPrimeTest.testFindNthPrime" configurationId="JUnit" />
+    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 31m 50s.xml">
+      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NthPrimeTest_testFindNthPrime - 2018.05.30 at 02h 01m 36s.xml">
-      <configuration name="NthPrimeTest.testFindNthPrime" configurationId="JUnit" />
+    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 36m 42s.xml">
+      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NthPrimeTest_testFindNthPrime - 2018.05.30 at 02h 01m 48s.xml">
-      <configuration name="NthPrimeTest.testFindNthPrime" configurationId="JUnit" />
+    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 54m 43s.xml">
+      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NthPrimeTest_testFindNthPrime - 2018.05.30 at 02h 02m 12s.xml">
-      <configuration name="NthPrimeTest.testFindNthPrime" configurationId="JUnit" />
+    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 55m 18s.xml">
+      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NthPrimeTest_testFindNthPrime - 2018.05.30 at 02h 02m 22s.xml">
-      <configuration name="NthPrimeTest.testFindNthPrime" configurationId="JUnit" />
+    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 55m 24s.xml">
+      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NthPrimeTest_testFindNthPrime - 2018.05.30 at 02h 02m 33s.xml">
-      <configuration name="NthPrimeTest.testFindNthPrime" configurationId="JUnit" />
+    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 55m 34s.xml">
+      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NthPrimeTest_testFindNthPrime - 2018.05.30 at 02h 02m 43s.xml">
-      <configuration name="NthPrimeTest.testFindNthPrime" configurationId="JUnit" />
+    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 55m 37s.xml">
+      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NthPrimeTest_testFindNthPrime - 2018.05.30 at 02h 02m 50s.xml">
-      <configuration name="NthPrimeTest.testFindNthPrime" configurationId="JUnit" />
+    <history-entry file="LargestKProductInNTest - 2018.05.30 at 19h 07m 32s.xml">
+      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NthPrimeTest_testFindNthPrime - 2018.05.30 at 02h 02m 56s.xml">
-      <configuration name="NthPrimeTest.testFindNthPrime" configurationId="JUnit" />
+    <history-entry file="LargestKProductInNTest - 2018.05.30 at 19h 08m 56s.xml">
+      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NthPrimeTest_testFindNthPrime - 2018.05.30 at 02h 03m 03s.xml">
-      <configuration name="NthPrimeTest.testFindNthPrime" configurationId="JUnit" />
+    <history-entry file="LargestKProductInNTest - 2018.05.30 at 19h 10m 45s.xml">
+      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -417,19 +449,19 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329582" />
       <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329582" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.24980484" />
       <window_info id="Learn" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50119907" side_tool="true" weight="0.24980484" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32943013" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -443,6 +475,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -667,16 +716,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com.github.kyriloss.pe/problem0001_35multiplesSum/Multiples35Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrimeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="425">
           <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -686,8 +728,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="170">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com.github.kyriloss.pe/problem0001_35multiplesSum/Multiples35Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInNTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
