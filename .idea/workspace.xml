@@ -19,26 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LargestKProductInN.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInN.java">
+      <file leaf-file-name="SpecialPythagoreanTriplet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0009_SpecialPythagoreanTriplet/SpecialPythagoreanTriplet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="182">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LargestKProductInNTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInNTest.java">
+      <file leaf-file-name="SpecialPythagoreanTripletTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0009_SpecialPythagoreanTriplet/SpecialPythagoreanTripletTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="15" column="98" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -111,8 +105,10 @@
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0006_sumSquareDifference/SumSquareDifferenceTest.java" />
         <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrime.java" />
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrimeTest.java" />
-        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInN.java" />
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInNTest.java" />
+        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInN.java" />
+        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0009_SpecialPythagoreanTriplet/SpecialPythagoreanTriplet.java" />
+        <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0009_SpecialPythagoreanTriplet/SpecialPythagoreanTripletTest.java" />
       </list>
     </option>
   </component>
@@ -130,6 +126,7 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,7 +150,7 @@
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main.java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0008_largestKProductInN" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0009_SpecialPythagoreanTriplet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
@@ -166,13 +163,12 @@
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test.java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0008_largestKProductInN" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0009_SpecialPythagoreanTriplet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,11 +185,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.github.kyriloss.pe.problem0009_SpecialPythagoreanTriplet" />
       <recent name="com.github.kyriloss.pe.problem0008_largestKProductInN" />
       <recent name="com.github.kyriloss.pe.problem0007_NthPrime" />
       <recent name="java.com.github.kyriloss.pe.problem0001_35multiplesSum" />
       <recent name="problem0006_sumSquareDifference" />
-      <recent name="problem0005_smallestMultiple" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -218,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LargestKProductInNTest">
+  <component name="RunManager" selected="JUnit.SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -291,18 +287,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SmallestMultipleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpecialPythagoreanTripletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0005_smallestMultiple.*" />
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0009_SpecialPythagoreanTriplet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0005_smallestMultiple" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0005_smallestMultiple.SmallestMultipleTest" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0009_SpecialPythagoreanTriplet" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0009_SpecialPythagoreanTriplet.SpecialPythagoreanTripletTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -314,20 +310,20 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SumSquareDifferenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0006_sumSquareDifference.*" />
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0009_SpecialPythagoreanTriplet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0006_sumSquareDifference" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0006_sumSquareDifference.SumSquareDifferenceTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0009_SpecialPythagoreanTriplet" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0009_SpecialPythagoreanTriplet.SpecialPythagoreanTripletTest" />
+      <option name="METHOD_NAME" value="testCalculateProductOfPythagoreanTripletWithSumN" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -376,19 +372,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SmallestMultipleTest" />
-      <item itemvalue="JUnit.SumSquareDifferenceTest" />
       <item itemvalue="JUnit.NthPrimeTest.testFindPrimesToN" />
       <item itemvalue="JUnit.NthPrimeTest.testFindNthPrime" />
       <item itemvalue="JUnit.LargestKProductInNTest" />
+      <item itemvalue="JUnit.SpecialPythagoreanTripletTest" />
+      <item itemvalue="JUnit.SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" />
+        <item itemvalue="JUnit.SpecialPythagoreanTripletTest" />
         <item itemvalue="JUnit.LargestKProductInNTest" />
         <item itemvalue="JUnit.NthPrimeTest.testFindNthPrime" />
         <item itemvalue="JUnit.NthPrimeTest.testFindPrimesToN" />
-        <item itemvalue="JUnit.SumSquareDifferenceTest" />
-        <item itemvalue="JUnit.SmallestMultipleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -406,35 +402,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 31m 50s.xml">
-      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
+    <history-entry file="SpecialPythagoreanTripletTest_testCalculateProductOfPythagoreanTripletWithSumN - 2018.05.31 at 04h 23m 15s.xml">
+      <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 36m 42s.xml">
-      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
+    <history-entry file="SpecialPythagoreanTripletTest_testCalculateProductOfPythagoreanTripletWithSumN - 2018.05.31 at 04h 23m 56s.xml">
+      <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 54m 43s.xml">
-      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
+    <history-entry file="SpecialPythagoreanTripletTest_testCalculateProductOfPythagoreanTripletWithSumN - 2018.05.31 at 04h 24m 18s.xml">
+      <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 55m 18s.xml">
-      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
+    <history-entry file="SpecialPythagoreanTripletTest_testCalculateProductOfPythagoreanTripletWithSumN - 2018.05.31 at 04h 25m 24s.xml">
+      <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 55m 24s.xml">
-      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
+    <history-entry file="SpecialPythagoreanTripletTest_testCalculateProductOfPythagoreanTripletWithSumN - 2018.05.31 at 04h 25m 29s.xml">
+      <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 55m 34s.xml">
-      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
+    <history-entry file="SpecialPythagoreanTripletTest_testCalculateProductOfPythagoreanTripletWithSumN - 2018.05.31 at 04h 25m 31s.xml">
+      <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestKProductInNTest - 2018.05.30 at 18h 55m 37s.xml">
-      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
+    <history-entry file="SpecialPythagoreanTripletTest_testCalculateProductOfPythagoreanTripletWithSumN - 2018.05.31 at 04h 25m 34s.xml">
+      <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestKProductInNTest - 2018.05.30 at 19h 07m 32s.xml">
-      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
+    <history-entry file="SpecialPythagoreanTripletTest_testCalculateProductOfPythagoreanTripletWithSumN - 2018.05.31 at 04h 35m 15s.xml">
+      <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestKProductInNTest - 2018.05.30 at 19h 08m 56s.xml">
-      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
+    <history-entry file="SpecialPythagoreanTripletTest_testCalculateProductOfPythagoreanTripletWithSumN - 2018.05.31 at 04h 35m 41s.xml">
+      <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestKProductInNTest - 2018.05.30 at 19h 10m 45s.xml">
-      <configuration name="LargestKProductInNTest" configurationId="JUnit" />
+    <history-entry file="SpecialPythagoreanTripletTest_testCalculateProductOfPythagoreanTripletWithSumN - 2018.05.31 at 04h 35m 44s.xml">
+      <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -449,8 +445,8 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="3" />
@@ -460,8 +456,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32943013" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,6 +471,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0009_SpecialPythagoreanTriplet/SpecialPythagoreanTriplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0009_SpecialPythagoreanTriplet/SpecialPythagoreanTripletTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -486,9 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -503,9 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -720,9 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -740,23 +741,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInNTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        <state relative-caret-position="318">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInNTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0009_SpecialPythagoreanTriplet/SpecialPythagoreanTripletTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="15" column="98" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0009_SpecialPythagoreanTriplet/SpecialPythagoreanTriplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
         </state>
       </provider>
     </entry>
