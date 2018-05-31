@@ -1,4 +1,4 @@
-package com.github.kyriloss.pe.problem0009_SpecialPythagoreanTriplet;
+package com.github.kyriloss.pe.problem0009_specialPythagoreanTriplet;
 
 import org.junit.jupiter.api.Test;
 
