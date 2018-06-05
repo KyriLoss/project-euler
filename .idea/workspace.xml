@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ca9299-fe61-4ace-88e4-10be8e3f806e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="87ca9299-fe61-4ace-88e4-10be8e3f806e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,20 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TriangularNumber.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumber.java">
+      <file leaf-file-name="LargeSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="24" selection-end-line="54" selection-end-column="1" />
+            <state relative-caret-position="250">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TriangularNumberTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumberTest.java">
+      <file leaf-file-name="LargeSumTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+            <state relative-caret-position="442">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,9 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/problem0002_evenFiboSum/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/problem0002_evenFiboSum/evenFiboSumTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/problem0002_evenFiboSum/evenFibonacciSumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/problem0002_evenFiboSum/evenFibonacciSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/problem0002_evenFibonacciSum/evenFibonacciSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/problem0002_evenFibonacciSum/EvenFibonacciSum.java" />
@@ -112,6 +110,9 @@
         <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/DivisibleTriangularNumber.java" />
         <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumber.java" />
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_triangularNumber/TriangularNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSumTest.java" />
+        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSum.java" />
       </list>
     </option>
   </component>
@@ -152,14 +153,14 @@
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main.java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0010_sumOfPrimes" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0012_triangularNumber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main.java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0012_divisibleTriangularNumber" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0013_largeSum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,11 +183,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.github.kyriloss.pe.problem0013_largeSum" />
       <recent name="com.github.kyriloss.pe.problem0012_divisibleTriangularNumber" />
       <recent name="com.github.kyriloss.pe.problem0010_sumOfPrimes" />
       <recent name="com.github.kyriloss.pe.problem0009_SpecialPythagoreanTriplet" />
       <recent name="com.github.kyriloss.pe.problem0008_largestKProductInN" />
-      <recent name="com.github.kyriloss.pe.problem0007_NthPrime" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -211,9 +212,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TriangularNumberTest">
+  <component name="RunManager" selected="JUnit.LargeSumTest.testCalculateSum">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="LargeSumTest.testCalculateSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0013_largeSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0013_largeSum" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0013_largeSum.LargeSumTest" />
+      <option name="METHOD_NAME" value="testCalculateSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="TriangularNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
@@ -350,9 +374,11 @@
       <item itemvalue="JUnit.TriangularNumberTest.testFindNumber" />
       <item itemvalue="JUnit.TriangularNumberTest.testNumberOfDivisors" />
       <item itemvalue="JUnit.TriangularNumberTest" />
+      <item itemvalue="JUnit.LargeSumTest.testCalculateSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LargeSumTest.testCalculateSum" />
         <item itemvalue="JUnit.TriangularNumberTest" />
         <item itemvalue="JUnit.TriangularNumberTest.testFindNumber" />
         <item itemvalue="JUnit.TriangularNumberTest.testNumberOfDivisors" />
@@ -374,24 +400,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TriangularNumberTest_testNumberOfDivisors - 2018.06.05 at 17h 15m 25s.xml">
-      <configuration name="TriangularNumberTest.testNumberOfDivisors" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 33s.xml">
-      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 40s.xml">
-      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 46s.xml">
-      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 50s.xml">
-      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 53s.xml">
-      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 57s.xml">
       <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
     </history-entry>
@@ -403,6 +411,24 @@
     </history-entry>
     <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 16m 21s.xml">
       <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TriangularNumberTest - 2018.06.05 at 17h 19m 44s.xml">
+      <configuration name="TriangularNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LargeSumTest_testCalculateSum - 2018.06.05 at 17h 34m 50s.xml">
+      <configuration name="LargeSumTest.testCalculateSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LargeSumTest_testCalculateSum - 2018.06.05 at 17h 35m 01s.xml">
+      <configuration name="LargeSumTest.testCalculateSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LargeSumTest_testCalculateSum - 2018.06.05 at 17h 40m 06s.xml">
+      <configuration name="LargeSumTest.testCalculateSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LargeSumTest_testCalculateSum - 2018.06.05 at 17h 41m 02s.xml">
+      <configuration name="LargeSumTest.testCalculateSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LargeSumTest_testCalculateSum - 2018.06.05 at 17h 41m 41s.xml">
+      <configuration name="LargeSumTest.testCalculateSum" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -443,14 +469,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main.java/com.github.kyriloss.pe/problem0001_35multiplesSum/Multiples35Sum.java" />
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0001_35multiplesSum/Multiples35SumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java/com.github.kyriloss.pe/problem0001_35multiplesSum/Multiples35Sum.java" />
     <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0001_35multiplesSum/Multiples35SumTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -610,6 +628,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -665,20 +686,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumberTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_triangularNumber/TriangularNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_triangularNumber/TriangularNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="24" selection-end-line="54" selection-end-column="1" />
+        <state relative-caret-position="765">
+          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
