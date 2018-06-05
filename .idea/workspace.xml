@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="87ca9299-fe61-4ace-88e4-10be8e3f806e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project-euler/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project-euler/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimes.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SumOfPrimes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimes.java">
+      <file leaf-file-name="TriangularNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+            <state relative-caret-position="306">
+              <caret line="18" column="24" selection-end-line="54" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumOfPrimesTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimesTest.java">
+      <file leaf-file-name="TriangularNumberTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,10 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/projectEuler/problem0001_53multiplesSum/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/projectEuler/problem0001_35multiplesSum/SolutionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/problem0001_35multiplesSum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/problem0002_evenFiboSum/Solution.java" />
         <option value="$PROJECT_DIR$/src/test/java/problem0002_evenFiboSum/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/problem0002_evenFiboSum/evenFiboSumTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/problem0002_evenFiboSum/evenFibonacciSumTest.java" />
@@ -113,6 +108,10 @@
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0009_SpecialPythagoreanTriplet/SpecialPythagoreanTripletTest.java" />
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimesTest.java" />
         <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimes.java" />
+        <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/DivisibleTriangularNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/DivisibleTriangularNumber.java" />
+        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumber.java" />
+        <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumberTest.java" />
       </list>
     </option>
   </component>
@@ -128,8 +127,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,13 +151,21 @@
               <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test.java" type="462c0819:PsiDirectoryNode" />
+              <item name="main.java" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0010_sumOfPrimes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main.java" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0012_divisibleTriangularNumber" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,11 +182,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.github.kyriloss.pe.problem0012_divisibleTriangularNumber" />
       <recent name="com.github.kyriloss.pe.problem0010_sumOfPrimes" />
       <recent name="com.github.kyriloss.pe.problem0009_SpecialPythagoreanTriplet" />
       <recent name="com.github.kyriloss.pe.problem0008_largestKProductInN" />
       <recent name="com.github.kyriloss.pe.problem0007_NthPrime" />
-      <recent name="java.com.github.kyriloss.pe.problem0001_35multiplesSum" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -204,33 +211,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LargestProductInGridTest">
-    <configuration name="SumOfPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0010_sumOfPrimes.SumOfPrimes" />
-      <module name="project-euler" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0010_sumOfPrimes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TriangularNumberTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LargestProductInGridTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TriangularNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0011_largestProductInGrid.*" />
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0012_triangularNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0011_largestProductInGrid" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0011_largestProductInGrid.LargestProductInGridTest" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber.TriangularNumberTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -242,19 +238,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TriangularNumberTest.testFindNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0009_specialPythagoreanTriplet.*" />
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0012_triangularNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0009_specialPythagoreanTriplet" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0009_specialPythagoreanTriplet.SpecialPythagoreanTripletTest" />
-      <option name="METHOD_NAME" value="testCalculateProductOfPythagoreanTripletWithSumN" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber.TriangularNumberTest" />
+      <option name="METHOD_NAME" value="testFindNumber" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -265,20 +261,20 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SumOfPrimesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TriangularNumberTest.testNumberOfDivisors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0010_sumOfPrimes.*" />
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0012_triangularNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0010_sumOfPrimes" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0010_sumOfPrimes.SumOfPrimesTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber.TriangularNumberTest" />
+      <option name="METHOD_NAME" value="testNumberOfDivisors" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -288,19 +284,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SumOfPrimesTest.testCalculateSumOfPrimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TriangularNumberTest.testNumberOfDivisorsOfX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0010_sumOfPrimes.*" />
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0012_triangularNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0010_sumOfPrimes" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0010_sumOfPrimes.SumOfPrimesTest" />
-      <option name="METHOD_NAME" value="testCalculateSumOfPrimes" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber.TriangularNumberTest" />
+      <option name="METHOD_NAME" value="testNumberOfDivisorsOfX" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -350,19 +346,17 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" />
-      <item itemvalue="JUnit.SumOfPrimesTest" />
-      <item itemvalue="Application.SumOfPrimes" />
-      <item itemvalue="JUnit.SumOfPrimesTest.testCalculateSumOfPrimes" />
-      <item itemvalue="JUnit.LargestProductInGridTest" />
+      <item itemvalue="JUnit.TriangularNumberTest.testNumberOfDivisorsOfX" />
+      <item itemvalue="JUnit.TriangularNumberTest.testFindNumber" />
+      <item itemvalue="JUnit.TriangularNumberTest.testNumberOfDivisors" />
+      <item itemvalue="JUnit.TriangularNumberTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LargestProductInGridTest" />
-        <item itemvalue="JUnit.SumOfPrimesTest" />
-        <item itemvalue="JUnit.SumOfPrimesTest.testCalculateSumOfPrimes" />
-        <item itemvalue="Application.SumOfPrimes" />
-        <item itemvalue="JUnit.SpecialPythagoreanTripletTest.testCalculateProductOfPythagoreanTripletWithSumN" />
+        <item itemvalue="JUnit.TriangularNumberTest" />
+        <item itemvalue="JUnit.TriangularNumberTest.testFindNumber" />
+        <item itemvalue="JUnit.TriangularNumberTest.testNumberOfDivisors" />
+        <item itemvalue="JUnit.TriangularNumberTest.testNumberOfDivisorsOfX" />
       </list>
     </recent_temporary>
   </component>
@@ -380,122 +374,75 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SumOfPrimesTest_testCalculateSumOfPrimes - 2018.06.04 at 18h 50m 44s.xml">
-      <configuration name="SumOfPrimesTest.testCalculateSumOfPrimes" configurationId="JUnit" />
+    <history-entry file="TriangularNumberTest_testNumberOfDivisors - 2018.06.05 at 17h 15m 25s.xml">
+      <configuration name="TriangularNumberTest.testNumberOfDivisors" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfPrimesTest_testCalculateSumOfPrimes - 2018.06.04 at 18h 51m 42s.xml">
-      <configuration name="SumOfPrimesTest.testCalculateSumOfPrimes" configurationId="JUnit" />
+    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 33s.xml">
+      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfPrimesTest_testCalculateSumOfPrimes - 2018.06.04 at 18h 51m 45s.xml">
-      <configuration name="SumOfPrimesTest.testCalculateSumOfPrimes" configurationId="JUnit" />
+    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 40s.xml">
+      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfPrimesTest_testCalculateSumOfPrimes - 2018.06.04 at 18h 51m 48s.xml">
-      <configuration name="SumOfPrimesTest.testCalculateSumOfPrimes" configurationId="JUnit" />
+    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 46s.xml">
+      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfPrimesTest_testCalculateSumOfPrimes - 2018.06.04 at 18h 53m 30s.xml">
-      <configuration name="SumOfPrimesTest.testCalculateSumOfPrimes" configurationId="JUnit" />
+    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 50s.xml">
+      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfPrimesTest_testCalculateSumOfPrimes - 2018.06.04 at 19h 02m 06s.xml">
-      <configuration name="SumOfPrimesTest.testCalculateSumOfPrimes" configurationId="JUnit" />
+    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 53s.xml">
+      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfPrimesTest_testCalculateSumOfPrimes - 2018.06.04 at 19h 04m 02s.xml">
-      <configuration name="SumOfPrimesTest.testCalculateSumOfPrimes" configurationId="JUnit" />
+    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 57s.xml">
+      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfPrimesTest_testCalculateSumOfPrimes - 2018.06.04 at 19h 04m 06s.xml">
-      <configuration name="SumOfPrimesTest.testCalculateSumOfPrimes" configurationId="JUnit" />
+    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 16m 02s.xml">
+      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfPrimesTest_testCalculateSumOfPrimes - 2018.06.04 at 19h 04m 45s.xml">
-      <configuration name="SumOfPrimesTest.testCalculateSumOfPrimes" configurationId="JUnit" />
+    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 16m 08s.xml">
+      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SumOfPrimesTest - 2018.06.04 at 21h 14m 12s.xml">
-      <configuration name="SumOfPrimesTest" configurationId="JUnit" />
+    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 16m 21s.xml">
+      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="6" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.329582" />
-      <window_info anchor="right" id="Palette&#9;" order="14" />
-      <window_info id="Image Layers" order="8" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329582" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info id="Capture Tool" order="9" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.24980484" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Structure" order="1" sideWeight="0.50119907" side_tool="true" weight="0.24980484" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
-      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="right" id="Palette" order="7" />
-      <window_info id="Designer" order="10" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329582" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info id="Image Layers" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="12" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info id="Capture Tool" order="13" />
+      <window_info id="Designer" order="10" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49880096" visible="true" weight="0.24980484" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info id="Learn" order="15" />
+      <window_info id="Structure" order="5" sideWeight="0.50119907" side_tool="true" weight="0.24980484" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="14" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39871383" />
+      <window_info id="Favorites" order="11" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="13" side_tool="true" weight="0.32943013" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info id="Structure" order="5" sideWeight="0.50119907" side_tool="true" weight="0.24980484" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info id="Favorites" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.329582" />
-      <window_info id="Image Layers" order="12" />
-      <window_info id="Capture Tool" order="13" />
-      <window_info id="UI Designer" order="14" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.39871383" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info id="Learn" order="15" />
-      <window_info anchor="right" id="Palette&#9;" order="11" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Maven Projects" order="12" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49880096" visible="true" weight="0.24980484" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrimeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrimeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0001_35multiplesSum/Multiples35SumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java/com.github.kyriloss.pe/problem0001_35multiplesSum/Multiples35Sum.java" />
     <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0001_35multiplesSum/Multiples35SumTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -652,13 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0009_specialPythagoreanTriplet/SpecialPythagoreanTriplet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0006_sumSquareDifference/SumSquareDifference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -670,9 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -690,20 +627,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimes.java">
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0011_largestProductInGrid/LargestProductInGrid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0011_largestProductInGrid/LargestProductInGridTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="17">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0009_specialPythagoreanTriplet/SpecialPythagoreanTriplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" selection-end-line="54" selection-end-column="1" />
         </state>
       </provider>
     </entry>
