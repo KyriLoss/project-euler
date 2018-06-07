@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ca9299-fe61-4ace-88e4-10be8e3f806e" name="Default" comment="" />
+    <list default="true" id="87ca9299-fe61-4ace-88e4-10be8e3f806e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project-euler/com/github/kyriloss/pe/problem0013_largeSum/LargeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project-euler/com/github/kyriloss/pe/problem0013_largeSum/LargeSum.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,23 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LargeSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSum.java">
+      <file leaf-file-name="LongestCollatzSequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0014_longestCollatzSequence/LongestCollatzSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="97">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LargeSumTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSumTest.java">
+      <file leaf-file-name="LongestCollatzSequenceTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0014_longestCollatzSequence/LongestCollatzSequenceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="80">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,6 +54,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>long</find>
+      <find>has</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -62,8 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/problem0002_evenFiboSum/evenFibonacciSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/problem0002_evenFibonacciSum/evenFibonacciSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/problem0002_evenFibonacciSum/EvenFibonacciSum.java" />
         <option value="$PROJECT_DIR$/src/test/java/problem0002_evenFibonacciSum/EvenFibonacciSumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/problem0001_35multiplesSum/Multiples35Sum.java" />
@@ -105,7 +104,6 @@
         <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0009_SpecialPythagoreanTriplet/SpecialPythagoreanTriplet.java" />
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0009_SpecialPythagoreanTriplet/SpecialPythagoreanTripletTest.java" />
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimesTest.java" />
-        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimes.java" />
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/DivisibleTriangularNumberTest.java" />
         <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/DivisibleTriangularNumber.java" />
         <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_divisibleTriangularNumber/TriangularNumber.java" />
@@ -113,6 +111,9 @@
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_triangularNumber/TriangularNumberTest.java" />
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSumTest.java" />
         <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSum.java" />
+        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimes.java" />
+        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0014_longestCollatzSequence/LongestCollatzSequence.java" />
+        <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0014_longestCollatzSequence/LongestCollatzSequenceTest.java" />
       </list>
     </option>
   </component>
@@ -128,8 +129,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,20 +154,13 @@
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main.java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0012_triangularNumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main.java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0013_largeSum" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0014_longestCollatzSequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,11 +177,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.github.kyriloss.pe.problem0014_longestCollatzSequence" />
       <recent name="com.github.kyriloss.pe.problem0013_largeSum" />
       <recent name="com.github.kyriloss.pe.problem0012_divisibleTriangularNumber" />
       <recent name="com.github.kyriloss.pe.problem0010_sumOfPrimes" />
       <recent name="com.github.kyriloss.pe.problem0009_SpecialPythagoreanTriplet" />
-      <recent name="com.github.kyriloss.pe.problem0008_largestKProductInN" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -212,45 +206,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LargeSumTest.testCalculateSum">
+  <component name="RunManager" selected="JUnit.LongestCollatzSequenceTest">
+    <configuration name="LongestCollatzSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence.LongestCollatzSequence" />
+      <module name="project-euler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LargeSumTest.testCalculateSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCollatzSequenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0013_largeSum.*" />
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0013_largeSum" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0013_largeSum.LargeSumTest" />
-      <option name="METHOD_NAME" value="testCalculateSum" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TriangularNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="project-euler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0012_triangularNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber.TriangularNumberTest" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence.LongestCollatzSequenceTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -262,19 +244,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TriangularNumberTest.testFindNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCollatzSequenceTest.testCollatzSeqLengths" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0012_triangularNumber.*" />
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber.TriangularNumberTest" />
-      <option name="METHOD_NAME" value="testFindNumber" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence.LongestCollatzSequenceTest" />
+      <option name="METHOD_NAME" value="testCollatzSeqLengths" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -285,42 +267,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TriangularNumberTest.testNumberOfDivisors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCollatzSequenceTest.testPathLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0012_triangularNumber.*" />
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber.TriangularNumberTest" />
-      <option name="METHOD_NAME" value="testNumberOfDivisors" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TriangularNumberTest.testNumberOfDivisorsOfX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="project-euler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0012_triangularNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0012_triangularNumber.TriangularNumberTest" />
-      <option name="METHOD_NAME" value="testNumberOfDivisorsOfX" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence.LongestCollatzSequenceTest" />
+      <option name="METHOD_NAME" value="testPathLength" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -370,19 +329,17 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.TriangularNumberTest.testNumberOfDivisorsOfX" />
-      <item itemvalue="JUnit.TriangularNumberTest.testFindNumber" />
-      <item itemvalue="JUnit.TriangularNumberTest.testNumberOfDivisors" />
-      <item itemvalue="JUnit.TriangularNumberTest" />
-      <item itemvalue="JUnit.LargeSumTest.testCalculateSum" />
+      <item itemvalue="Application.LongestCollatzSequence" />
+      <item itemvalue="JUnit.LongestCollatzSequenceTest.testPathLength" />
+      <item itemvalue="JUnit.LongestCollatzSequenceTest" />
+      <item itemvalue="JUnit.LongestCollatzSequenceTest.testCollatzSeqLengths" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LargeSumTest.testCalculateSum" />
-        <item itemvalue="JUnit.TriangularNumberTest" />
-        <item itemvalue="JUnit.TriangularNumberTest.testFindNumber" />
-        <item itemvalue="JUnit.TriangularNumberTest.testNumberOfDivisors" />
-        <item itemvalue="JUnit.TriangularNumberTest.testNumberOfDivisorsOfX" />
+        <item itemvalue="JUnit.LongestCollatzSequenceTest" />
+        <item itemvalue="JUnit.LongestCollatzSequenceTest.testCollatzSeqLengths" />
+        <item itemvalue="JUnit.LongestCollatzSequenceTest.testPathLength" />
+        <item itemvalue="Application.LongestCollatzSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -400,35 +357,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 15m 57s.xml">
-      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
+    <history-entry file="LongestCollatzSequenceTest_testPathLength - 2018.06.07 at 12h 17m 24s.xml">
+      <configuration name="LongestCollatzSequenceTest.testPathLength" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 16m 02s.xml">
-      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
+    <history-entry file="LongestCollatzSequenceTest_testPathLength - 2018.06.07 at 12h 17m 47s.xml">
+      <configuration name="LongestCollatzSequenceTest.testPathLength" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 16m 08s.xml">
-      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
+    <history-entry file="LongestCollatzSequenceTest_testPathLength - 2018.06.07 at 12h 19m 30s.xml">
+      <configuration name="LongestCollatzSequenceTest.testPathLength" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangularNumberTest_testFindNumber - 2018.06.05 at 17h 16m 21s.xml">
-      <configuration name="TriangularNumberTest.testFindNumber" configurationId="JUnit" />
+    <history-entry file="LongestCollatzSequenceTest_testPathLength - 2018.06.07 at 12h 21m 18s.xml">
+      <configuration name="LongestCollatzSequenceTest.testPathLength" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangularNumberTest - 2018.06.05 at 17h 19m 44s.xml">
-      <configuration name="TriangularNumberTest" configurationId="JUnit" />
+    <history-entry file="LongestCollatzSequenceTest_testPathLength - 2018.06.07 at 12h 21m 40s.xml">
+      <configuration name="LongestCollatzSequenceTest.testPathLength" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargeSumTest_testCalculateSum - 2018.06.05 at 17h 34m 50s.xml">
-      <configuration name="LargeSumTest.testCalculateSum" configurationId="JUnit" />
+    <history-entry file="LongestCollatzSequenceTest_testPathLength - 2018.06.07 at 12h 23m 04s.xml">
+      <configuration name="LongestCollatzSequenceTest.testPathLength" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargeSumTest_testCalculateSum - 2018.06.05 at 17h 35m 01s.xml">
-      <configuration name="LargeSumTest.testCalculateSum" configurationId="JUnit" />
+    <history-entry file="LongestCollatzSequenceTest_testPathLength - 2018.06.07 at 14h 59m 38s.xml">
+      <configuration name="LongestCollatzSequenceTest.testPathLength" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargeSumTest_testCalculateSum - 2018.06.05 at 17h 40m 06s.xml">
-      <configuration name="LargeSumTest.testCalculateSum" configurationId="JUnit" />
+    <history-entry file="LongestCollatzSequenceTest_testCollatzSeqLengths - 2018.06.07 at 15h 00m 26s.xml">
+      <configuration name="LongestCollatzSequenceTest.testCollatzSeqLengths" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargeSumTest_testCalculateSum - 2018.06.05 at 17h 41m 02s.xml">
-      <configuration name="LargeSumTest.testCalculateSum" configurationId="JUnit" />
+    <history-entry file="LongestCollatzSequenceTest_testCollatzSeqLengths - 2018.06.07 at 15h 00m 40s.xml">
+      <configuration name="LongestCollatzSequenceTest.testCollatzSeqLengths" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargeSumTest_testCalculateSum - 2018.06.05 at 17h 41m 41s.xml">
-      <configuration name="LargeSumTest.testCalculateSum" configurationId="JUnit" />
+    <history-entry file="LongestCollatzSequenceTest - 2018.06.07 at 15h 03m 03s.xml">
+      <configuration name="LongestCollatzSequenceTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -449,7 +406,6 @@
       <window_info id="Capture Tool" order="13" />
       <window_info id="Designer" order="10" />
       <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49880096" visible="true" weight="0.24980484" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
       <window_info id="Learn" order="15" />
       <window_info id="Structure" order="5" sideWeight="0.50119907" side_tool="true" weight="0.24980484" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -463,20 +419,13 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main.java/com.github.kyriloss.pe/problem0001_35multiplesSum/Multiples35Sum.java" />
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0001_35multiplesSum/Multiples35SumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java/com.github.kyriloss.pe/problem0001_35multiplesSum/Multiples35Sum.java" />
     <entry file="file://$PROJECT_DIR$/src/main.java/com.github.kyriloss.pe/problem0003_largestPrimeFactor/LargestPrimeFactor.java" />
     <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0003_largestPrimeFactor/LargestPrimeFactorTest.java">
@@ -628,9 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -648,27 +594,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0011_largestProductInGrid/LargestProductInGrid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0011_largestProductInGrid/LargestProductInGridTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -679,37 +608,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0012_triangularNumber/TriangularNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_triangularNumber/TriangularNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,6 +619,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0011_largestProductInGrid/LargestProductInGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0010_sumOfPrimes/SumOfPrimesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0013_largeSum/LargeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0012_triangularNumber/TriangularNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0014_longestCollatzSequence/LongestCollatzSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0014_longestCollatzSequence/LongestCollatzSequenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
