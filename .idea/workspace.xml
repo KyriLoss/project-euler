@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ca9299-fe61-4ace-88e4-10be8e3f806e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="87ca9299-fe61-4ace-88e4-10be8e3f806e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LatticePaths.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0015_latticePaths/LatticePaths.java">
+      <file leaf-file-name="PowerDigitSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0016_powerDigitSum/PowerDigitSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="102">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LatticePathsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0015_latticePaths/LatticePathsTest.java">
+      <file leaf-file-name="PowerDigitSumTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0016_powerDigitSum/PowerDigitSumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="34">
+              <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -62,8 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/problem0001_35multiplesSum/Multiples35Sum.java" />
-        <option value="$PROJECT_DIR$/src/test/java/problem0001_35multiplesSumTest/Multiples35SumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/problem0003_largestPrimeFactor/LargestPrimeFactor.java" />
         <option value="$PROJECT_DIR$/src/test/java/problem0003_largestPrimeFactor/LargestPrimeFactorTest.java" />
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
@@ -113,6 +109,8 @@
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0014_longestCollatzSequence/LongestCollatzSequenceTest.java" />
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0015_latticePaths/LatticePathsTest.java" />
         <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0015_latticePaths/LatticePaths.java" />
+        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0016_powerDigitSum/PowerDigitSum.java" />
+        <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0016_powerDigitSum/PowerDigitSumTest.java" />
       </list>
     </option>
   </component>
@@ -153,14 +151,14 @@
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main.java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0014_longestCollatzSequence" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0015_latticePaths" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main.java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem0015_latticePaths" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0016_powerDigitSum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,11 +181,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.github.kyriloss.pe.problem0016_powerDigitSum" />
       <recent name="com.github.kyriloss.pe.problem0015_latticePaths" />
       <recent name="com.github.kyriloss.pe.problem0014_longestCollatzSequence" />
       <recent name="com.github.kyriloss.pe.problem0013_largeSum" />
       <recent name="com.github.kyriloss.pe.problem0012_divisibleTriangularNumber" />
-      <recent name="com.github.kyriloss.pe.problem0010_sumOfPrimes" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -212,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LatticePaths">
+  <component name="RunManager" selected="JUnit.PowerDigitSumTest">
     <configuration name="LatticePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0015_latticePaths.LatticePaths" />
       <module name="project-euler" />
@@ -220,6 +218,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.github.kyriloss.pe.problem0015_latticePaths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PowerDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0016_powerDigitSum.PowerDigitSum" />
+      <module name="project-euler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0016_powerDigitSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,41 +282,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LatticePathsTest.testNumberOfPaths" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PowerDigitSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-euler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0015_latticePaths.*" />
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0016_powerDigitSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0015_latticePaths" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0015_latticePaths.LatticePathsTest" />
-      <option name="METHOD_NAME" value="testNumberOfPaths" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="LongestCollatzSequenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="project-euler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence" />
-      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0014_longestCollatzSequence.LongestCollatzSequenceTest" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0016_powerDigitSum" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0016_powerDigitSum.PowerDigitSumTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -358,19 +344,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LongestCollatzSequenceTest" />
       <item itemvalue="JUnit.LatticePathsTest.testFactorial" />
-      <item itemvalue="JUnit.LatticePathsTest.testNumberOfPaths" />
       <item itemvalue="JUnit.LatticePathsTest" />
       <item itemvalue="Application.LatticePaths" />
+      <item itemvalue="Application.PowerDigitSum" />
+      <item itemvalue="JUnit.PowerDigitSumTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PowerDigitSumTest" />
+        <item itemvalue="Application.PowerDigitSum" />
         <item itemvalue="Application.LatticePaths" />
         <item itemvalue="JUnit.LatticePathsTest" />
         <item itemvalue="JUnit.LatticePathsTest.testFactorial" />
-        <item itemvalue="JUnit.LatticePathsTest.testNumberOfPaths" />
-        <item itemvalue="JUnit.LongestCollatzSequenceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -388,9 +374,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LatticePathsTest_testNumberOfPaths - 2018.06.07 at 15h 35m 30s.xml">
-      <configuration name="LatticePathsTest.testNumberOfPaths" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LatticePathsTest_testNumberOfPaths - 2018.06.07 at 15h 35m 45s.xml">
       <configuration name="LatticePathsTest.testNumberOfPaths" configurationId="JUnit" />
     </history-entry>
@@ -418,9 +401,13 @@
     <history-entry file="LatticePathsTest - 2018.06.07 at 15h 42m 42s.xml">
       <configuration name="LatticePathsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PowerDigitSumTest - 2018.06.08 at 12h 06m 24s.xml">
+      <configuration name="PowerDigitSumTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="7" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -456,16 +443,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0003_largestPrimeFactor/LargestPrimeFactorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project-euler.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Problem0001_35Multiples/Solution.java" />
     <entry file="file://$PROJECT_DIR$/project-euler.iml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -692,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0015_latticePaths/LatticePathsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0014_longestCollatzSequence/LongestCollatzSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
@@ -706,13 +676,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0015_latticePaths/LatticePathsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0015_latticePaths/LatticePaths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0016_powerDigitSum/PowerDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0016_powerDigitSum/PowerDigitSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
         </state>
       </provider>
     </entry>
