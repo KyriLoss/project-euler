@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87ca9299-fe61-4ace-88e4-10be8e3f806e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="87ca9299-fe61-4ace-88e4-10be8e3f806e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,23 +17,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CountingSundays.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0019_countingSundays/CountingSundays.java">
+      <file leaf-file-name="FactorialDigitSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0020_factorialDigitSum/FactorialDigitSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+            <state>
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountingSundaysTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0019_countingSundays/CountingSundaysTest.java">
+      <file leaf-file-name="FactorialDigitSumTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0020_factorialDigitSum/FactorialDigitSumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="319">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PowerDigitSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0016_powerDigitSum/PowerDigitSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -62,8 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/problem0005_smallestMultiple/SmallestMultiple.java" />
-        <option value="$PROJECT_DIR$/src/test/java/problem0006_sumSquareDifference/SumSquareDifferenceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/problem0006_sumSquareDifference/SumSquareDifference.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/kyriloss/pe/problem0001_35multiplesSum/Multiples35Sum.java" />
         <option value="$PROJECT_DIR$/src/test/java.com.github.kyriloss.pe/problem0001_35multiplesSumTest/Multiples35SumTest.java" />
@@ -113,6 +118,8 @@
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0018_maxPathSumI/MaxPathSumITest.java" />
         <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0019_countingSundays/CountingSundaysTest.java" />
         <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0019_countingSundays/CountingSundays.java" />
+        <option value="$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0020_factorialDigitSum/FactorialDigitSum.java" />
+        <option value="$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0020_factorialDigitSum/FactorialDigitSumTest.java" />
       </list>
     </option>
   </component>
@@ -141,6 +148,32 @@
               <item name="project-euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main.java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main.java" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0020_factorialDigitSum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test.java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test.java" type="462c0819:PsiDirectoryNode" />
+              <item name="problem0016_powerDigitSum" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -163,11 +196,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.github.kyriloss.pe.problem0020_factorialDigitSum" />
       <recent name="com.github.kyriloss.pe.problem0019_countingSundays" />
       <recent name="com.github.kyriloss.pe.problem0018_maxPathSumI" />
       <recent name="com.github.kyriloss.pe.problem0017_numberToWords" />
       <recent name="com.github.kyriloss.pe.problem0016_powerDigitSum" />
-      <recent name="com.github.kyriloss.pe.problem0015_latticePaths" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -192,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.FactorialDigitSumTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -209,6 +242,75 @@
       <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0019_countingSundays" />
       <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0019_countingSundays.CountingSundaysTest" />
       <option name="METHOD_NAME" value="testCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FactorialDigitSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0020_factorialDigitSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0020_factorialDigitSum" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0020_factorialDigitSum.FactorialDigitSumTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FactorialDigitSumTest.testFactorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0020_factorialDigitSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0020_factorialDigitSum" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0020_factorialDigitSum.FactorialDigitSumTest" />
+      <option name="METHOD_NAME" value="testFactorial" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FactorialDigitSumTest.testSumOfDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-euler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.kyriloss.pe.problem0020_factorialDigitSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.github.kyriloss.pe.problem0020_factorialDigitSum" />
+      <option name="MAIN_CLASS_NAME" value="com.github.kyriloss.pe.problem0020_factorialDigitSum.FactorialDigitSumTest" />
+      <option name="METHOD_NAME" value="testSumOfDigits" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -257,8 +359,17 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.CountingSundaysTest.testCount" />
+      <item itemvalue="JUnit.FactorialDigitSumTest.testFactorial" />
+      <item itemvalue="JUnit.FactorialDigitSumTest.testSumOfDigits" />
+      <item itemvalue="JUnit.FactorialDigitSumTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FactorialDigitSumTest" />
+        <item itemvalue="JUnit.FactorialDigitSumTest.testSumOfDigits" />
+        <item itemvalue="JUnit.FactorialDigitSumTest.testFactorial" />
         <item itemvalue="JUnit.CountingSundaysTest.testCount" />
       </list>
     </recent_temporary>
@@ -277,35 +388,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CountingSundaysTest_testCount - 2018.06.21 at 19h 29m 32s.xml">
+    <history-entry file="CountingSundaysTest_testCount - 2018.06.21 at 19h 46m 30s.xml">
       <configuration name="CountingSundaysTest.testCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSundaysTest_testCount - 2018.06.21 at 19h 29m 42s.xml">
-      <configuration name="CountingSundaysTest.testCount" configurationId="JUnit" />
+    <history-entry file="FactorialDigitSumTest_testFactorial - 2018.06.21 at 20h 04m 03s.xml">
+      <configuration name="FactorialDigitSumTest.testFactorial" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSundaysTest_testCount - 2018.06.21 at 19h 33m 22s.xml">
-      <configuration name="CountingSundaysTest.testCount" configurationId="JUnit" />
+    <history-entry file="FactorialDigitSumTest_testFactorial - 2018.06.21 at 20h 04m 43s.xml">
+      <configuration name="FactorialDigitSumTest.testFactorial" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSundaysTest_testCount - 2018.06.21 at 19h 33m 31s.xml">
-      <configuration name="CountingSundaysTest.testCount" configurationId="JUnit" />
+    <history-entry file="FactorialDigitSumTest_testFactorial - 2018.06.21 at 20h 05m 27s.xml">
+      <configuration name="FactorialDigitSumTest.testFactorial" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSundaysTest_testCount - 2018.06.21 at 19h 33m 46s.xml">
-      <configuration name="CountingSundaysTest.testCount" configurationId="JUnit" />
+    <history-entry file="FactorialDigitSumTest_testFactorial - 2018.06.21 at 20h 05m 40s.xml">
+      <configuration name="FactorialDigitSumTest.testFactorial" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSundaysTest_testCount - 2018.06.21 at 19h 33m 50s.xml">
-      <configuration name="CountingSundaysTest.testCount" configurationId="JUnit" />
+    <history-entry file="FactorialDigitSumTest_testSumOfDigits - 2018.06.21 at 20h 06m 55s.xml">
+      <configuration name="FactorialDigitSumTest.testSumOfDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSundaysTest_testCount - 2018.06.21 at 19h 33m 58s.xml">
-      <configuration name="CountingSundaysTest.testCount" configurationId="JUnit" />
+    <history-entry file="FactorialDigitSumTest_testSumOfDigits - 2018.06.21 at 20h 07m 11s.xml">
+      <configuration name="FactorialDigitSumTest.testSumOfDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSundaysTest_testCount - 2018.06.21 at 19h 36m 19s.xml">
-      <configuration name="CountingSundaysTest.testCount" configurationId="JUnit" />
+    <history-entry file="FactorialDigitSumTest_testSumOfDigits - 2018.06.21 at 20h 07m 42s.xml">
+      <configuration name="FactorialDigitSumTest.testSumOfDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSundaysTest_testCount - 2018.06.21 at 19h 40m 22s.xml">
-      <configuration name="CountingSundaysTest.testCount" configurationId="JUnit" />
+    <history-entry file="FactorialDigitSumTest_testSumOfDigits - 2018.06.21 at 20h 07m 51s.xml">
+      <configuration name="FactorialDigitSumTest.testSumOfDigits" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountingSundaysTest_testCount - 2018.06.21 at 19h 41m 19s.xml">
-      <configuration name="CountingSundaysTest.testCount" configurationId="JUnit" />
+    <history-entry file="FactorialDigitSumTest - 2018.06.21 at 20h 08m 54s.xml">
+      <configuration name="FactorialDigitSumTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -346,17 +457,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0002_evenFibonacciSum/EvenFibonacciSumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com.github.kyriloss.pe/problem0002_evenFibonacciSum/EvenFibonacciSum.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/project-euler.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -465,13 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0007_NthPrime/NthPrime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -577,20 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0016_powerDigitSum/PowerDigitSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0016_powerDigitSum/PowerDigitSumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0017_numberToWords/NumberToWordsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -619,20 +698,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0019_countingSundays/CountingSundays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="88" column="5" selection-start-line="72" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0019_countingSundays/CountingSundaysTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
+        <state relative-caret-position="204">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0019_countingSundays/CountingSundays.java">
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0002_evenFibonacciSum/EvenFibonacciSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0008_largestKProductInN/LargestKProductInN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0016_powerDigitSum/PowerDigitSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0016_powerDigitSum/PowerDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java/com/github/kyriloss/pe/problem0020_factorialDigitSum/FactorialDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java/com/github/kyriloss/pe/problem0020_factorialDigitSum/FactorialDigitSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
         </state>
       </provider>
     </entry>
